@@ -13,6 +13,6 @@
 |A reta | X | X |  |4|
 |O plano | X | X |  |3|
 |Distâncias | X | X | X |4|
-|Cônicas | X | X |  |3|
-|Superfícies quadráticas | X | X |  |4|
+|Cônicas |  | X |  |3|
+|Superfícies quadráticas |  | X |  |4|
 
