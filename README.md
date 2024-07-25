@@ -4,8 +4,8 @@
 
 ## Acervo:
 # Geometria analítica com Python
-| Capítulo | Possui resolução<br> matemática?| Possui resolução <br> computacional? |Número de exemplos <br> no capítulo |
-|---------------------|:---------:|:-----------:|:-----------------:|
+| Capítulo | Possui resolução<br> matemática?| Possui resolução <br> computacional? |Número de exemplos <br> no capítulo |Número de exemplos <br> no capítulo |
+|---------------------|:---------:|:-----------:|:-----------------:|:-----------------:
 |Vetores | X | X | 8 |
 |Vetores | X | X | 8 |
 |Vetores | X | X | 8 |
