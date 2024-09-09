@@ -6,7 +6,7 @@
 
 Para utilizar o produto educacional, o usuário deve acessar a página do GitHub e selecionar, no PyGA, o capítulo que deseja executar. Em seguida, será necessário possuir uma conta Google para acessar o ambiente Google Colab, que permite a execução do código sem a necessidade de ter o Python instalado na máquina. Nesse ambiente, os códigos estão disponíveis para execução e manipulação, de acordo com a necessidade.
 
-# Geometria analítica com Python
+# Geometria analítica com Python:
 | Capítulo | Possui resolução<br> matemática?| Possui resolução <br> computacional? |Possui representação <br> geral? |Número de exemplos <br> no capítulo |
 |---------------------|:---------:|:-----------:|:-----------------:|:-----------------:|
 |Vetores | X | X | X |8|
