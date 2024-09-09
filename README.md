@@ -2,7 +2,7 @@
 
 ![PyGA](https://github.com/Allan-Luka/PyGA/blob/main/.github/2.jpg?raw=true)
 
-#Pré-requisitos:
+# Pré-requisitos:
 
 Para utilizar o produto educacional, o usuário deve acessar a página do GitHub e selecionar, no PyGA, o capítulo que deseja executar. Em seguida, será necessário possuir uma conta Google para acessar o ambiente Google Colab, que permite a execução do código sem a necessidade de ter o Python instalado na máquina. Nesse ambiente, os códigos estão disponíveis para execução e manipulação, de acordo com a necessidade.
 
