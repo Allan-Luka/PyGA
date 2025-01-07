@@ -23,4 +23,4 @@ Para utilizar o produto educacional, o usuário deve acessar a página do GitHub
 |Cônicas |  | X |  |3|
 |Superfícies quadráticas |  | X |  |4|
 
-Este produto educacional constitui um dos resultados do projeto intitulado "Desenvolvimento de um produto educacional para o ensino de Geometria analítica empregando python", executado entre Setembro/2023 e Agosto/2024 com o apoio do CNPq/UFAL, por meio do Edital edital Nº 5, sob a supervisão do Prof. Dr. Marcelo Pires.
+Este produto educacional constitui um dos resultados do projeto intitulado "Desenvolvimento de um produto educacional para o ensino de Geometria analítica empregando python", executado entre Setembro/2023 e Agosto/2024 com o apoio do CNPq/UFAL, por meio do edital Nº 5, sob a supervisão do Prof. Dr. Marcelo Pires.
